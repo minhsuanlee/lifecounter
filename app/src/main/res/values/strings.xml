@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lifecounter</string>
+    <string name="player1">Player1</string>
+    <string name="plus1">+1</string>
+    <string name="player4">Player4</string>
+    <string name="player3">Player3</string>
+    <string name="player2">Player2</string>
+    <string name="minus1">-1</string>
+    <string name="minus5">-5</string>
+    <string name="plus5">+5</string>
+    <string name="life_remaining_20">Life remaining: 20</string>
+    <string name="packageName">edu.washington.minhsuan.lifecounter</string>
+    <string name="life_remain">Life remaining: </string>
+    <string name="life_remain_x">Life remaining: %1$d</string>
+    <string name="lost">Player %1$d LOSES!</string>
+</resources>
